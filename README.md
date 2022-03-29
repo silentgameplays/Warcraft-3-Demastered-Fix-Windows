@@ -8,4 +8,4 @@
 3.(Optional) Install VLC to view MPQ files
 4.Install DirectX 9 Runtime from MS on Windows 11 it is not included:
 * https://www.microsoft.com/en-us/download/details.aspx?id=8109
-# silentgameplayzz
+# silentgamepls
